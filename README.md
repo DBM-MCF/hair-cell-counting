@@ -1,7 +1,6 @@
 Fiji scripts for semi-automatic hair cell counting
 ======
 
-## Description
 Two scripts for hair cell counting in Fiji using [StarDist](https://imagej.net/StarDist) in 2D images.
 
 ## Supplemental information
