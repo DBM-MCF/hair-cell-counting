@@ -46,15 +46,6 @@ Update sites:
 
 @author: Loïc Sauteur - DBM Basel - loic.sauteur@unibas.ch
 
-
-@version00 - 20200623: basic version
-@modification - 20200727:
-    - output: inner hair cells entry (manually entered), outer hair cells - inner entry
-    - give name to drawn lines to discern basal/medial/apical (according entry in output)
-    - improved the cochlea detection (line ordering in ROI manager)
-@version01 - 20200806:
-    - adding manual cochlea outlining
-    - approximate the line for nuclei counting according to cochlea distance from apex
  */
 
 

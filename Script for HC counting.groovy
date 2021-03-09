@@ -27,19 +27,6 @@ Requirements (update sites):
 
 @author: Loïc Sauteur - DBM Basel - loic.sauteur@unibas.ch
 
-
-@version00 - 20200623: basic version
-@modification - 20200727:
-    - output: inner haircells entry (manually entered), outer hair cells - inner entry
-    - give name to drawn lines to discern basal/medial/apical (according entry in output)
-    not done / not necessary    - apply stardist to full image instead of crops (more reliable)
-    TODO    - something more difficult, recognize the whole snail and count in different segments... could be interesting to do...
-            -> recognise snail, identify inner start, identify different segments (10% steps), create box around approx 20 nuclei and use this script's scaffold
-@modification - 20200727 - 2:
-    - improved the cochlea detection (line ordering in roimanager)
-@modification - 20201127:
-    - ome.tif exported from NIS would not open correctly with Bioformats
-    - using now standard importer (only for suffix == ".ome.tif")
  */
 
 
