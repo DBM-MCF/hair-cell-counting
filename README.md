@@ -26,4 +26,13 @@ Enable following updates sites:
 When using our StarDist model, set the TensorFlow settings in Fiji to version 1.14.0.
 This is the TensorFlow version the model was trained on.
 
-*More information will follow...*
+Please check the supplemental material of our article for a detailed [step-by-step guide](https://ars.els-cdn.com/content/image/1-s2.0-S0378595521001519-mmc2.zip) of our scripts.
+
+## How to cite
+
+Cortada, M., Sauteur, L., Lanz, M., Levano, S., & Bodmer, D. (2021). 
+A deep learning approach to quantify auditory hair cells. 
+Hearing Research, 409, 108317. 
+[http://doi.org/10.1016/j.heares.2021.108317](http://doi.org/10.1016/j.heares.2021.108317)
+
+And the [StarDist plugins as described here](https://github.com/stardist/stardist#how-to-cite).
